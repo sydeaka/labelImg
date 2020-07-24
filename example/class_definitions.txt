@@ -1,0 +1,13 @@
+dog
+chicken
+baby chick
+parrot
+other bird
+cat
+rabbit
+turtle
+horse
+cow
+goat
+lamb
+pig

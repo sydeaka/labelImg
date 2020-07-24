@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>animals-3.jpg</filename>
+	<path>/Users/poisson/Documents/GitHub/labelImg/example/images/animals-3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
